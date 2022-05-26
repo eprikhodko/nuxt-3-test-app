@@ -17,10 +17,15 @@ module.exports = {
       screens: {
         lg: "960px",
       },
+
       colors: {
         "title-active": "#404357",
         placeholder: "#898DA8",
         label: "#6B7192",
+      },
+
+      maxWidth: {
+        lg: "960px",
       },
 
       fontFamily: {

@@ -5,7 +5,7 @@
     <h1 class="text-3xl font-bold underline">Hello world!</h1>
   </div> -->
 
-  <div class="max-w-screen-lg mx-auto">
+  <div class="max-w-lg mx-auto">
     <header class="flex justify-between mt-10">
       <h1 class="text-3xl font-sans font-semibold text-title-active">Assets</h1>
       <div class="flex items-center">
