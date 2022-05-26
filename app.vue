@@ -5,16 +5,24 @@
     <h1 class="text-3xl font-bold underline">Hello world!</h1>
   </div> -->
 
-  <div class="border-solid border-4 border-green-500 max-w-5xl mx-auto">
-    <header class="border-solid border-2 border-rose-400 flex justify-between">
+  <div class="max-w-screen-lg mx-auto">
+    <header class="flex justify-between mt-10">
       <h1 class="text-3xl font-sans font-semibold text-title-active">Assets</h1>
       <div class="flex items-center">
         <p class="mr-4 font-semibold text-placeholder text-sm">Sort by:</p>
-        <p class="font-semibold text-label text-sm">By price</p>
+
+        <div class="cursor-pointer flex">
+          <p class="font-semibold text-label text-sm">By price</p>
+          <img
+            class="ml-1"
+            src="./assets/img/icons/Arrow.svg"
+            alt="arrow icon"
+          />
+        </div>
       </div>
     </header>
 
-    <div class="grid grid-cols-4 gap-4 mt-4">
+    <div class="grid grid-cols-4 gap-4 mt-8">
       <div class="bg-blue-200 rounded-2xl p-4">
         <h4>Etherium</h4>
         <h5>Eth</h5>

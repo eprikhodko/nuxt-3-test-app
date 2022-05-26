@@ -14,11 +14,15 @@ module.exports = {
       body: ["Arial", '"Open Sans"'],
     },
     extend: {
+      screens: {
+        lg: "960px",
+      },
       colors: {
         "title-active": "#404357",
         placeholder: "#898DA8",
         label: "#6B7192",
       },
+
       fontFamily: {
         sans: ["Proxima Nova", ...defaultTheme.fontFamily.sans],
       },
