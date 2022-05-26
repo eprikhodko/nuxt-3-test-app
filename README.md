@@ -41,10 +41,10 @@ npm run preview
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
 
-### Tips to install Tailwind
+### Tips for installing Tailwind
 
 ```bash
-npm install -D tailwindcss postcss autoprefixer
+npm install -D tailwindcss
 ```
 
 ```bash
