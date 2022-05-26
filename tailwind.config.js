@@ -16,6 +16,8 @@ module.exports = {
     extend: {
       colors: {
         "title-active": "#404357",
+        placeholder: "#898DA8",
+        label: "#6B7192",
       },
       fontFamily: {
         sans: ["Proxima Nova", ...defaultTheme.fontFamily.sans],
