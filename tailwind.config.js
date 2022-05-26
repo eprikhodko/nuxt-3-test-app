@@ -19,9 +19,12 @@ module.exports = {
       },
 
       colors: {
+        body: "#565A75",
+        disabled: "#898DA8",
         "title-active": "#404357",
         placeholder: "#898DA8",
         label: "#6B7192",
+        background: "#F4F5FB",
       },
 
       maxWidth: {
