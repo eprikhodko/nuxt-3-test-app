@@ -14,6 +14,9 @@ module.exports = {
       body: ["Arial", '"Open Sans"'],
     },
     extend: {
+      colors: {
+        "title-active": "#404357",
+      },
       fontFamily: {
         sans: ["Proxima Nova", ...defaultTheme.fontFamily.sans],
       },

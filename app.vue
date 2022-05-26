@@ -7,7 +7,7 @@
 
   <div class="border-solid border-4 border-green-500 max-w-5xl mx-auto">
     <header class="border-solid border-2 border-rose-400 flex justify-between">
-      <h1 class="text-3xl font-sans">Assets</h1>
+      <h1 class="text-3xl font-sans font-semibold text-title-active">Assets</h1>
       <div class="flex items-center">
         <p class="mr-4">Sort by:</p>
         <p>By price</p>
