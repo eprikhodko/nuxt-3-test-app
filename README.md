@@ -40,3 +40,17 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+### Tips for installing Tailwind
+
+```bash
+npm install -D tailwindcss
+```
+
+```bash
+npx tailwindcss init
+```
+
+Then configure **nuxt.config.ts, tailwind.config.js, add main.css**
+
+Also check [official tailwind docs](https://tailwindcss.com/docs/guides/nuxtjs).
